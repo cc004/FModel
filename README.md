@@ -2,6 +2,8 @@
 
 Beginner-friendly and open-source software for data-mining games made with Unreal Engine.
 
+**Fixed to suit hotta**
+
 <img src="https://user-images.githubusercontent.com/26126862/119065662-52534800-b9de-11eb-85fd-a47797daa062.png" align="center" alt="FModel">
 
 ## Installation
